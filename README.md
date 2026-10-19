@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am working at Crystal furnitech as a software developer<br>my skills are java, react ci/cd, sql,docker.
-
+👋 Hi, I'm a Software Developer at Crystal Furnitech, passionate about building scalable, reliable, and user-friendly applications. I work with Java, React, SQL, Docker, and CI/CD to develop efficient software solutions, streamline deployments, and deliver high-quality code. I'm always eager to learn new technologies and solve real-world problems through clean, maintainable code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jatin-yadav-48a298219/) 
